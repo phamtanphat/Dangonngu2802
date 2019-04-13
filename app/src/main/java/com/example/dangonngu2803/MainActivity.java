@@ -28,7 +28,10 @@ public class MainActivity extends AppCompatActivity {
                 String taikhoan = edtTk.getText().toString();
                 String matkhau = edtMk.getText().toString();
 
-                txtNoidung.setText("Tai khoan : " + taikhoan + "\n" + "Mật khẩu : " + matkhau);
+                String tk = getResources().getString(R.string.text_tai_khoan);
+                String mk = getResources().getString(R.string.text_mat_khau);
+
+                txtNoidung.setText(tk  + taikhoan + "\n" + mk + matkhau);
             }
         });
     }

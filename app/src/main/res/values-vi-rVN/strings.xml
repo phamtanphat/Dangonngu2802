@@ -6,4 +6,6 @@
     <string name="edt_mat_khau">Mật khẩu</string>
     <string name="btn_dang_nhap">Đăng nhập</string>
     <string name="btn_dang_ky">Đăng ký</string>
+    <string name="text_tai_khoan">Tài khoản</string>
+    <string name="text_mat_khau">Mật khẩu</string>
 </resources>

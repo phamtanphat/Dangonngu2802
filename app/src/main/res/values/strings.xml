@@ -5,5 +5,7 @@
     <string name="edt_mat_khau">Password</string>
     <string name="btn_dang_nhap">Login</string>
     <string name="btn_dang_ky">Register</string>
+    <string name="text_tai_khoan">User</string>
+    <string name="text_mat_khau">Password</string>
 </resources>
 
