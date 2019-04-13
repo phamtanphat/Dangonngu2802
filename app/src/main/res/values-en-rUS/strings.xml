@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dangonngu2803</string>
     <string name="text_tieu_De">Log In</string>
@@ -6,4 +7,3 @@
     <string name="btn_dang_nhap">Login</string>
     <string name="btn_dang_ky">Register</string>
 </resources>
-

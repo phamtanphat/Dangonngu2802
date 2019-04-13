@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dangonngu2803</string>
+    <string name="text_tieu_De">Đăng nhập</string>
+    <string name="edt_tai_khoan">Tài khoản</string>
+    <string name="edt_mat_khau">Mật khẩu</string>
+    <string name="btn_dang_nhap">Đăng nhập</string>
+    <string name="btn_dang_ky">Đăng ký</string>
+</resources>
